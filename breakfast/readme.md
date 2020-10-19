@@ -1,6 +1,6 @@
-# Replace with recipe name
+# Bacon and Eggs
 
-## Servings: 
+## Servings: 3
 
 ## Time to prepare: 
 
