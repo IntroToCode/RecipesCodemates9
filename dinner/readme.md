@@ -1,17 +1,20 @@
-# Replace with recipe name
+# Cheese sandwich 
 
-## Servings: 
+## Servings: 3
 
-## Time to prepare: 
+## Time to prepare: 10 minutes
 
 ## Ingredients:
+Cheese 
+bread
 
 
 ## Equipment needed:
+knife
 
 
 ## Steps for preparation:
-
+cut cheese, put in sandwich 
 
 
 ### Notes:
