@@ -27,6 +27,7 @@
 
 
 ### Notes:
+Beware of peanut and dairy allergies!
 
 
 
