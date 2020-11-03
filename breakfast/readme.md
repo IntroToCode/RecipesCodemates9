@@ -12,7 +12,7 @@
 - 2 tbsp chia seeds 
 - 1 tbsp peanut butter (optional)
 - toppings: raisins, chococlate chips, coconut flakes, chopped nuts, nutella (optional)
-
+- Nutmeg
 
 ## Equipment needed:
 - jar or tupper ware to contain oats 
@@ -23,7 +23,6 @@
 - wisk all ingredients together and place in fridge overnight in a sealed jar or bowl
 - mix in the morning and add optional toppings
 - enjoy 
-
 
 
 ### Notes:
