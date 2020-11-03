@@ -7,18 +7,22 @@
 ## Ingredients:
 Cheese 
 bread
+butter
 
 
 ## Equipment needed:
 knife
+plate
+toaster
 
 
 ## Steps for preparation:
-cut cheese, put in sandwich 
+cut cheese, put in sandwich
+spread butter
+put in toaster
 
 
 ### Notes:
-
 
 
 ### Codemates #
