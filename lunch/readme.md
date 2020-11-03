@@ -7,14 +7,14 @@
 ## Ingredients:
 - Hamburger meat
 - bun
-- cheese 
+- cheese of your choice
 - pickles
 - tomato
 -lettuce
 
 
 ## Equipment needed:
-
+pan
 
 ## Steps for preparation:
 
