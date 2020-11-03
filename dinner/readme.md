@@ -5,8 +5,7 @@
 ## Time to prepare: 10 minutes
 
 ## Ingredients:
-Cheddar Cheese 
-Provolone Cheese
+
 French bread
 butter
 
