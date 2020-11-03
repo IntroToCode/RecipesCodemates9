@@ -5,7 +5,7 @@
 ## Time to prepare: 10 minutes
 
 ## Ingredients:
-Cheddar or Jack Cheese 
+
 French bread
 butter
 
