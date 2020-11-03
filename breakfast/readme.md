@@ -7,7 +7,7 @@
 ## Ingredients:
 - 1/2 cup oats 
 - 1/2 cup milk 
-- 1 tsp cinnamon 
+- 2 tsp cinnamon 
 - 1/2 banana, mashed
 - 2 tbsp chia seeds 
 - 1 tbsp peanut butter (optional)
