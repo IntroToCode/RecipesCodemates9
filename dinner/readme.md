@@ -1,6 +1,19 @@
+
+# Lunch Recipe
+Cheese burgers
+
 # Grilled Cheese sandwich 
 
 ## Servings: 3
+
+## Time to prepare: 
+3 minutes
+
+## Ingredients:
+Impossible Meat, Cheeese, Tomato, Lettuce
+
+## Equipment needed:
+Hands
 
 ## Time to prepare: 10 minutes
 
@@ -13,7 +26,6 @@ Cheese
 knife
 plate
 toaster
-
 
 ## Steps for preparation:
 
