@@ -27,7 +27,7 @@
 
 
 ### Notes:
-
+- If you are lactose intolerant, replace diary milk with non-dairy alternatives (almond milk, coconut milk, etc)
 
 
 ### Codemates #
