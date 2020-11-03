@@ -16,7 +16,7 @@
 
 ## Equipment needed:
 - jar or tupper ware to contain oats 
-- measuring cups and spoons 
+- Measuring cups and spoons 
 
 
 ## Steps for preparation:
