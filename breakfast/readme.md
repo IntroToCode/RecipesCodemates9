@@ -12,7 +12,7 @@
 - 2 tbsp chia seeds 
 - 1 tbsp peanut butter (optional)
 - toppings: raisins, chococlate chips, coconut flakes, chopped nuts, nutella (optional)
-
+- Whipped Cream 
 
 ## Equipment needed:
 - jar or tupper ware to contain oats 
