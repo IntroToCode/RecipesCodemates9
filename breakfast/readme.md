@@ -27,7 +27,10 @@
 
 
 ### Notes:
-- If you are lactose intolerant, replace diary milk with non-dairy alternatives (almond milk, coconut milk, etc)
+fedepacheco-allergiesalert
+Beware of peanut and dairy allergies!
+If you are lactose intolerant, replace diary milk with non-dairy alternatives (almond milk, coconut milk, etc)
+main
 
 
 ### Codemates #
