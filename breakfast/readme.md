@@ -11,7 +11,7 @@
 - 1/2 banana, mashed
 - 2 tbsp chia seeds 
 - 1 tbsp peanut butter (optional)
-- toppings: raisins, chococlate chips, coconut flakes, chopped nuts (optional)
+- toppings: raisins, chococlate chips, coconut flakes, chopped nuts, nutella (optional)
 
 
 ## Equipment needed:
@@ -27,8 +27,10 @@
 
 
 ### Notes:
+fedepacheco-allergiesalert
 Beware of peanut and dairy allergies!
-
+If you are lactose intolerant, replace diary milk with non-dairy alternatives (almond milk, coconut milk, etc)
+main
 
 
 ### Codemates #
