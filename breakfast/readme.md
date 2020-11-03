@@ -11,7 +11,7 @@
 - 1/2 banana, mashed
 - 2 tbsp chia seeds 
 - 1 tbsp peanut butter (optional)
-- toppings: raisins, chococlate chips, coconut flakes, chopped nuts (optional)
+- toppings: raisins, chococlate chips, coconut flakes, chopped nuts, nutella (optional)
 
 
 ## Equipment needed:
