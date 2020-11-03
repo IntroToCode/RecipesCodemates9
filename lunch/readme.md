@@ -1,10 +1,16 @@
-# Replace with recipe name
+# Dinner recipe: Cheeseburger
 
-## Servings: 
+## Servings: 1
 
-## Time to prepare: 
+## Time to prepare: 15 min
 
 ## Ingredients:
+- Hamburger meat
+- bun
+- cheese 
+- pickles
+- tomato
+-lettuce
 
 
 ## Equipment needed:
